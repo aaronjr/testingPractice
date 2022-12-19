@@ -1,6 +1,6 @@
 # testingPractice
 
-## Writen solution and tests for the following.
+## I have written solutions and tests for the following;
 
 - A capitalize function that takes a string and returns it with the first character capitalized.
 
